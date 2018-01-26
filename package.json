@@ -1,6 +1,6 @@
 {
   "name": "language-hoon",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Hoon language support in Atom",
   "keywords": [],
   "repository": "https://github.com/urbit/language-hoon",
